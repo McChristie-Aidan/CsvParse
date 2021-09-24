@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CsvParser": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Aidan\\Github\\CsvParse\\SampleCSVFile_11.csv\" \"C:\\Users\\Aidan\\Github\\CsvParse\\SampleCSVFile_119.csv\""
+    }
+  }
+}
